@@ -18,7 +18,7 @@ products, consulting and agencies of one, creators, and e-commerce brands.
 
 Finance is the first department. Selfirm is in early access.
 
-[Website](https://www.selfirm.com) ·
-[What works today](https://www.selfirm.com/roadmap/) ·
-[For developers and agents](https://www.selfirm.com/developers/) ·
-[Join the waitlist](https://www.selfirm.com/waitlist/)
+[Website](https://www.selfirm.com/?src=github) ·
+[What works today](https://www.selfirm.com/roadmap/?src=github) ·
+[For developers and agents](https://www.selfirm.com/developers/?src=github) ·
+[Join the waitlist](https://www.selfirm.com/waitlist/?src=github)
